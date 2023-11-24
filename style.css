@@ -1,0 +1,205 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: rgba(237,242,248,255);
+}
+.Daniel{
+    background: #733fc8;
+    width: 595px;
+    height: 300px;
+    padding-left: 30px;
+    color: white;
+    margin-left:15px;
+    border-radius: 10px;
+    padding-right: 20px;
+    font-family: Roboto;
+}
+.daniel-flex{
+    display: flex;
+}
+
+.daniel-image{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    border-radius: 80px;
+    border: 2px solid rgb(165, 154, 154);
+}
+.daniel-offer{
+    font-weight: light;
+    font-family: Arial, Helvetica, sans-serif
+}
+.daniel-clifford{
+    padding-left: 15px;
+    font-size: 9px;
+    font-weight: bold;
+    padding-top: 32px;
+}
+.daniel-toptext{
+    margin-bottom: 0;
+    font-size: 11px;
+    opacity: 0.8;
+}
+.daniel-span{
+    font-size: 13px;
+    opacity: 0.5;
+}
+.verified{
+    opacity: 0.5;
+}
+.jonathan{
+    background: rgba(73,85,107,255);
+    padding-left: 35px;
+    color: white;
+    width: 280px;
+    font-family: Roboto;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    padding-right: 35px;
+}
+.jonathan-flex{
+    display: flex;
+}
+.jonathan-image{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.jona-walters{
+    margin-bottom: 0;
+    font-size: 11px;
+    opacity: 0.8;
+}
+.jona-up{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.jona-verified{
+    font-size: 9px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.jona-span{
+    font-size: 13px;
+    opacity: 0.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.janet{
+    background: white;
+    width: 280px;
+    font-family: Roboto;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 7px;
+}
+.janet-flex{
+    display: flex;
+}
+.janet-image{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.janet-harmon{
+    margin-bottom: 0;
+    opacity: 0.8;
+    font-size: 11px;
+}
+.then-janet{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.verified-janet{
+    font-size: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.janet-span{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.patrick{
+    background: #18202d;
+    width: 595px;
+    height: 300px;
+    padding-left: 30px;
+    color: white;
+    margin-left:15px;
+    border-radius: 10px;
+    padding-right: 20px;
+    font-family: Roboto;
+}
+.patrick-flex{
+    display: flex;
+}
+.patrick-image{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    border-radius: 80px;
+    border: 2px solid rgb(165, 154, 154);
+}
+.patrick-abrams{
+    margin-bottom: 0;
+    opacity: 0.8;
+    font-size: 11px;
+}
+.verified-patrick{
+    font-size: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
+.then-patrick{
+    padding-left: 15px;
+    font-size: 9px;
+    font-weight: bold;
+    padding-top: 27px;
+}
+.patrick-span{
+    font-size: 13px;
+    opacity: 0.5;
+}
+.patrick-awesome{
+    font-weight: light;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+}
+.kira{
+    background: white;
+    width:300px;
+    padding-left: 30px;
+    padding-right: 33px;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+.kira-flex{
+    display: flex;
+}
+.kira-image{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    border-radius: 80px;
+    border: 2px solid rgb(165, 154, 154);
+}
+.kira-whistle{
+    margin-bottom: 0;
+    opacity: 0.8;
+    font-size: 11px;
+}
+.then-kira{
+    padding-left: 15px;
+    font-size: 9px;
+    font-weight: bold;
+    padding-top: 27px;
+}
+.verified-kira{
+    font-size: 10px;
+    opacity: 0.5;
+    font-weight: bold;
+}
